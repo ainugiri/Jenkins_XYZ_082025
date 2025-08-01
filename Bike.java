@@ -10,6 +10,8 @@ class Bike{
     System.out.println("Model: " + Model);
     System.out.println("Year: " + Year);
     System.out.println("Thank You");    
+    System.out.println("Thank You");    
+    System.out.println("Thank You");    
   }
 }
 // This is a simple Java class for a Bike that displays its details.
