@@ -38,7 +38,7 @@ class Vehicles {
         System.out.println("Vehicle Year: " + vehicleYear);
     }   
     public static void main(String[] args) {
-        Vehicles car = new Vehicles("Car", "Ford Freestyle", 2021);
+        Vehicles car = new Vehicles("Jeep", "Jeep", 2025);
         car.displayVehicleInfo();
     }
 }
