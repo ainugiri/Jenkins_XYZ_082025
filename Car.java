@@ -29,4 +29,8 @@ class Car {
                 ", year=" + year +
                 '}';
     }
+
+    public void display_random() {
+        System.out.println("Random display of car: " + this);
+    }
 }
